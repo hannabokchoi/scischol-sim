@@ -1,0 +1,12 @@
+name: Scischoldraft
+title: Scischoldraft
+username:
+account: bokchoi
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2768749
+bundleId: 3605824
+url: https://bokchoi.shinyapps.io/Scischoldraft/
+when: 1599562787.92082
+asMultiple: FALSE
+asStatic: FALSE
