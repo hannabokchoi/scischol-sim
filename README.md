@@ -4,6 +4,8 @@ Science scholars research project resources.
 R Shiny app development. 
 Here is the app https://bokchoi.shinyapps.io/gwprocesssimulation/
 
+Note: "time" cannot go very high because it will crash. Making anything really high will slow it down a lot.
+
 annotations.R include detailed annotations of the code
 app.R is the code used to produce the app (with fewer annotations but otherwise identical)
 
