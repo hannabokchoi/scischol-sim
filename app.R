@@ -128,7 +128,7 @@ server <- function(input, output) {
     mu <- rowMeans(samp)
     # plot as dashed line if no detection
     if(input$pdetect==0){
-    legend("topleft", lty = c(1,2), lwd=c(3,2), col = c(rgb(0.6,0.2,1,0.8),1), legend = c("extinction", "average"))
+    legend("topleft", lty = 2, legend = "average")
     lines(mu, col = "black", lty = 2, lwd = 2)
     }
     else{
